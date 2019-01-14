@@ -1,10 +1,10 @@
 # BasicFileEncryption
 Basic Drag and Drop xor file encryption
 
---INSTALL--
+--INSTALL--     
 download and build.
 
---USAGE--
+--USAGE--     
 Drag your file(s) onto the executable and they will be modified into encrypted bits.
 Drag them onto the executable again and they will be returned to normal.
 
